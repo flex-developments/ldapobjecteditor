@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2014
- * Ing. Felix D. Lopez M. - flex.developments@gmail.com
+ * Ing. Felix D. Lopez M. - flex.developments en gmail
  * 
  * Este programa es software libre; Usted puede usarlo bajo los terminos de la
  * licencia de software GPL version 2.0 de la Free Software Foundation.
@@ -30,7 +30,7 @@ import javax.naming.directory.DirContext;
 /**
  * InitEdit
  * 
- * @author Ing. Felix D. Lopez M. - flex.developments@gmail.com
+ * @author Ing. Felix D. Lopez M. - flex.developments en gmail
  * @version 1.0
  */
 public class InitEdit {
