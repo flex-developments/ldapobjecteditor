@@ -6,8 +6,8 @@ Java - Script para modificación en lote de atributos en objetos de un LDAP o Ac
    * commons-net-3.1
    * mail
 
-## Copyright (C) 2014
-Ing. Felix D. Lopez M. - flex.developments en gmail
+## Copyright (C) 2014 - Ing. Felix D. Lopez M.
+ * Ing. Felix D. Lopez M. - flex.developments en gmail
 
 Este programa es software libre; Usted puede usarlo bajo los terminos de la licencia de software GPL version 2.0 de la Free Software Foundation.
 
