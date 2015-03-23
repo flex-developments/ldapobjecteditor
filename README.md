@@ -2,9 +2,9 @@
 Java - Script para modificación en lote de atributos en objetos de un LDAP o ActiveDirectory. Específicamente para activación o desactivación de usuarios.
 
 ## Dependencias
- * lib-flex-helpers v010
-   * commons-net-3.1
-   * mail
+ * lib-flex-helpers v020
+   * commons-net-3.3 (http://commons.apache.org/proper/commons-net/download_net.cgi)
+   * javax.mail  (https://java.net/projects/javamail/pages/Home)
 
 ## Copyright (C) 2014 - Ing. Félix D. López M.
  * Ing. Félix D. López M. - flex.developments en gmail
